@@ -19,6 +19,7 @@ I was interested in analysing Seattle Airbnb data which was provided by Udacity 
 # File Description
 
 Write a Data Science Blog.ipynb: Ipython file that contains python code for analyzing and visualizing data.
+
 listings.csv: contains Seattle Airbnb data
 
 
