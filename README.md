@@ -22,4 +22,7 @@ Write a Data Science Blog.ipynb: Ipython file that contains python code for anal
 
 listings.csv: contains Seattle Airbnb data
 
+# Results
+
+You can see my findings in my work via this link.
 
