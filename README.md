@@ -24,5 +24,5 @@ listings.csv: contains Seattle Airbnb data
 
 # Results
 
-You can see my findings in my work via this link.
+You can see my findings in my work via this link. https://mustafadenek89.medium.com/what-are-the-key-points-which-make-landlords-more-competitive-in-airbnb-1345d5d3280
 
